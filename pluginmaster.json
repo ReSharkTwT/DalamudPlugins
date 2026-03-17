@@ -3,7 +3,7 @@
         "Author": "Infi, Anna",
         "Name": "Chat 2",
         "InternalName": "ChatTwo",
-        "AssemblyVersion": "1.34.3.1",
+        "AssemblyVersion": "1.34.3.2",
         "Description": "Chat 2 is a complete rewrite of the in-game chat window as a plugin.\nIt supports:\n\n- Unlimited tabs\n- Tabs that always send to a certain channel\n- More flexible filtering\n- RGB channel colouring\n- Completely variable font size\n- Sidebar tabs\n- Unread counts\n- Emotes\n- Screenshot mode (obfuscate names)",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/Infiziert90/ChatTwo",
@@ -19,10 +19,10 @@
         "CanUnloadAsync": false,
         "LoadPriority": 0,
         "Punchline": "Electric Boogaloo - ♪ A whole new chat, a new fantastic chat window ♪",
-        "Changelog": "添加反屏蔽词设置选项\n反屏蔽词高亮:只高亮聊天类消息",
+        "Changelog": "1.34.3.1 -> 添加反屏蔽词设置选项；反屏蔽词高亮只高亮聊天类消息\n1.34.3.2 -> 补充屏蔽词高亮 [喊话/情感动作/自定义情感动作] 频道",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/ReSharkTwT/ChatTwo/releases/download/1.34.3.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/ReSharkTwT/ChatTwo/releases/download/1.34.3.1/latest.zip"
+        "DownloadLinkInstall": "https://github.com/ReSharkTwT/ChatTwo/releases/download/1.34.3.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/ReSharkTwT/ChatTwo/releases/download/1.34.3.2/latest.zip"
     },
     {
         "Author": "daemitus, croizat",
