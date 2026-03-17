@@ -55,7 +55,7 @@
         "Author": "Herculezz, erdelf",
         "Name": "AutoDuty",
         "InternalName": "AutoDuty",
-        "AssemblyVersion": "0.0.0.0",
+        "AssemblyVersion": "0.0.0.2",
         "MinimumDalamudVersion": "14.0.0.0",
         "Description": "AutoDuty",
         "ApplicableVersion": "any",
@@ -75,8 +75,8 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
         "Punchline": "AutoDuty",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/ReSharkTwT/AutoDuty/releases/download/0.0.0.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/ReSharkTwT/AutoDuty/releases/download/0.0.0.1/latest.zip"
+        "DownloadLinkInstall": "https://github.com/ReSharkTwT/AutoDuty/releases/download/0.0.0.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/ReSharkTwT/AutoDuty/releases/download/0.0.0.2/latest.zip"
     },
     {
         "Author": "SaMo, 穷孩子(适配/汉化)",
